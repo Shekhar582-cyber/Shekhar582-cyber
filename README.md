@@ -18,7 +18,7 @@
 - 🎓 **Education:** B.E. in Artificial Intelligence & Data Science
 - 🏫 **College:** Government Engineering College Nargund
 - 📍 **Location:** Sankh, India 🇮🇳
-- 📊 **Current SGPA:** 8.1/10
+- 📊 **Current SGPA:** 8.6/10
 - 💼 **Focus:** Building scalable web applications with MERN stack
 - 🌱 **Currently Learning:** Advanced React patterns & MongoDB optimization
 - 💡 **Passionate About:** Full-Stack Development, Problem Solving, AI/ML
