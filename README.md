@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/github/followers/Shekhar582-cyber?label=Followers&style=social" alt="followers" />
 </p>
 
-
-
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
@@ -16,7 +14,7 @@
 - 🎓 **Education:** B.E. in Artificial Intelligence & Data Science
 - 🏫 **College:** Government Engineering College Nargund
 - 📍 **Location:** Sankh, India 🇮🇳
-- 📊 **Current SGPA:** 8.6/10
+- 📊 **Current SGPA:** 8.1/10
 - 💼 **Focus:** Building scalable web applications with MERN stack
 - 🌱 **Currently Learning:** Advanced React patterns & MongoDB optimization
 - 💡 **Passionate About:** Full-Stack Development, Problem Solving, AI/ML
