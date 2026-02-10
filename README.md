@@ -7,9 +7,7 @@
   <img src="https://img.shields.io/github/followers/Shekhar582-cyber?label=Followers&style=social" alt="followers" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+
 
 ## 🚀 About Me
 
