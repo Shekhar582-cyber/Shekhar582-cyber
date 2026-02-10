@@ -13,17 +13,18 @@
 
 ## 🚀 About Me
 
-```javascript
-const shekhar = {
-    location: "Sankh, India 🇮🇳",
-    education: "B.E. in AI & Data Science",
-    college: "Government Engineering College Nargund",
-    currentSGPA: "8.1/10",
-    passions: ["Full-Stack Development", "Problem Solving", "Learning New Tech"],
-    currentFocus: "Building scalable web applications with MERN stack",
-    funFact: "I turn coffee into code ☕️ → 💻"
-};
-```
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🎓 **Education:** B.E. in Artificial Intelligence & Data Science
+- 🏫 **College:** Government Engineering College Nargund
+- 📍 **Location:** Sankh, India 🇮🇳
+- 📊 **Current SGPA:** 8.1/10
+- 💼 **Focus:** Building scalable web applications with MERN stack
+- 🌱 **Currently Learning:** Advanced React patterns & MongoDB optimization
+- 💡 **Passionate About:** Full-Stack Development, Problem Solving, AI/ML
+- ⚡ **Fun Fact:** I turn coffee into code ☕️ → 💻
+- 📫 **Reach Me:** shekharhotkar2002@gmail.com
+- 📱 **Phone:** +91 9356670051
 
 ## 💻 Tech Stack
 
