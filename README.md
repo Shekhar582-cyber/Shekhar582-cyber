@@ -1,124 +1,159 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Shekhar+Lalu+Hotkar;Full-Stack+Web+Developer+%F0%9F%9A%80;AI+%26+Data+Science+Student+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=Hi+👋,+I'm+Shekhar+Hotkar;Java+Full+Stack+Developer+☕;Spring+Boot+%7C+React+Developer+🚀" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shekhar582-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Shekhar582-cyber?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Shekhar582-cyber&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Shekhar582-cyber?label=Followers&style=social" />
 </p>
 
-## 🚀 About Me
+# 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🎓 **Education:** B.E. in Artificial Intelligence & Data Science
-- 🏫 **College:** Government Engineering College Nargund
-- 📍 **Location:** Sankh, India 🇮🇳
-- 📊 **Current SGPA:** 8.1/10
-- 💼 **Focus:** Building scalable web applications with MERN stack
-- 🌱 **Currently Learning:** Advanced React patterns & MongoDB optimization
-- 💡 **Passionate About:** Full-Stack Development, Problem Solving, AI/ML
-- ⚡ **Fun Fact:** I turn coffee into code ☕️ → 💻
-- 📫 **Reach Me:** shekharhotkar2002@gmail.com
-- 📱 **Phone:** +91 9356670051
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-### 🏏 CricketApp (GECN Premier League)
-**Tech Stack:** Node.js | Express | MongoDB | HTML | CSS | JavaScript
-
-A comprehensive web-based cricket tournament management system featuring match scheduling, live score updates, team management, and tournament statistics. Built with RESTful APIs and MongoDB for efficient data handling.
+- 🎓 B.E. in Artificial Intelligence & Data Science
+- 💻 Java Full Stack Developer
+- 🌱 Currently learning Spring Security, Microservices & System Design
+- 🔥 Solving Data Structures & Algorithms using Java
+- 🚀 Passionate about Backend Development & REST APIs
+- 💡 Interested in Java, Spring Boot, React & Cloud Technologies
+- 📫 Email: **shekharhotkar2002@gmail.com**
+- 📍 Karnataka, India 🇮🇳
 
 ---
 
-### 📝 Student Review System
-**Tech Stack:** HTML | CSS | JavaScript | Node.js | Express | MongoDB
+# 💻 Tech Stack
 
-An interactive feedback platform enabling students to submit ratings and reviews for teachers. Features REST endpoints, form validation, dynamic updates, and a clean responsive UI.
+## Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ---
 
-### 💼 Drip Agency Website
-**Tech Stack:** HTML | CSS | JavaScript
+# 🚀 Featured Projects
 
-A modern, responsive static website for a digital agency with grid-based layouts, smooth animations, and enhanced user experience across all devices.
+## 🎓 EduNest
 
-</div>
+**Java | Spring Boot | Spring Security | MySQL | JWT | REST API**
 
-## 📊 GitHub Stats
+An Online Learning Management System featuring authentication, role-based authorization, course management, quizzes, certificates, leaderboard, and progress tracking.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shekhar582-cyber&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shekhar582-cyber&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shekhar582-cyber&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
-</p>
+## 📧 Mail Sender Application
 
-## 🏆 GitHub Trophies
+**Java | Spring Boot | JavaMailSender**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shekhar582-cyber&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</p>
+Email sending application capable of sending plain text, HTML emails, and attachments using Spring Boot.
 
-## 📈 Contribution Graph
+---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shekhar582-cyber&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-</p>
+## 🏏 Cricket Tournament Management System
 
-## 🎓 Certifications
+**Node.js | Express | MongoDB**
 
-- 🏅 **Infosys Springboard** - HTML5: The Language (June 2025)
-- 🏅 **Infosys Springboard** - CSS3 (June 2025)
-- 🏅 **Udemy** - React.js for Beginners (September 2025)
-- 🏅 **Udemy** - The Complete MySQL Bootcamp (October 2025)
+Web-based application for managing cricket tournaments, match schedules, scores, teams, and player statistics.
 
-## 🌐 Connect With Me
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:shekharhotkar2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Shekhar582-cyber">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="tel:+919356670051">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
-  </a>
-</p>
 
-## 💡 Quote of the Day
+<img src="https://github-readme-stats.vercel.app/api?username=Shekhar582-cyber&show_icons=true&theme=tokyonight"/>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shekhar582-cyber&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shekhar582-cyber&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
+# 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&animation=twinkling" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shekhar582-cyber&theme=algolia&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shekhar582-cyber&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📜 Certifications
+
+- Infosys Springboard – HTML5
+- Infosys Springboard – CSS3
+- Java Full Stack Development – QSpiders
+- React.js Fundamentals
+- MySQL Bootcamp
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:shekharhotkar2002@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/Shekhar582-cyber">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/Shekhar582-cyber">Shekhar582-cyber</a> - Let's build something amazing together!</i>
+
+⭐ **Thanks for visiting my profile!**
+
 </p>
