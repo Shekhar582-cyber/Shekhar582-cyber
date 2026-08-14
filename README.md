@@ -1,159 +1,282 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=Hi+👋,+I'm+Shekhar+Hotkar;Java+Full+Stack+Developer+☕;Spring+Boot+%7C+React+Developer+🚀" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shekhar582-cyber&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Shekhar582-cyber?label=Followers&style=social" />
+# 👋 Hi, I'm Shekhar Hotkar
+
+### ☕ Java Full Stack Developer | Spring Boot | React.js
+
+<p>
+  <a href="https://github.com/Shekhar582-cyber">
+    <img src="https://img.shields.io/badge/GitHub-Shekhar582--cyber-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shekhar-hotkar-925a36294">
+    <img src="https://img.shields.io/badge/LinkedIn-Shekhar%20Hotkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shekhardatta2021@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-# 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=Shekhar582-cyber&label=Profile%20Views&color=0e75b6&style=flat" />
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-- 🎓 B.E. in Artificial Intelligence & Data Science
-- 💻 Java Full Stack Developer
-- 🌱 Currently learning Spring Security, Microservices & System Design
-- 🔥 Solving Data Structures & Algorithms using Java
-- 🚀 Passionate about Backend Development & REST APIs
-- 💡 Interested in Java, Spring Boot, React & Cloud Technologies
-- 📫 Email: **shekharhotkar2002@gmail.com**
-- 📍 Karnataka, India 🇮🇳
+</div>
 
 ---
 
-# 💻 Tech Stack
+## 🚀 About Me
 
-## Languages
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+I'm a **Java Full Stack Developer** with hands-on experience in:
 
-## Backend
+- ☕ Core Java & Advanced Java
+- 🌱 Spring Boot & Spring MVC
+- 🔐 Spring Security & Authentication
+- 🗄️ Hibernate / JPA / MySQL
+- ⚛️ React.js
+- 🔗 RESTful API Development
+- 🧩 MVC Architecture
+- 🧠 Data Structures & Algorithms
+- 🛠️ Git, GitHub, Maven & Postman
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+I enjoy building **scalable full-stack applications**, designing REST APIs,
+working with relational databases, and solving programming problems using Java.
 
-## Frontend
+### 🎓 Education
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**B.E. – Artificial Intelligence & Data Science**
 
-## Database
+Government Engineering College  
+Visvesvaraya Technological University, Belagavi
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+**CGPA: 8.1 / 10**
 
-## Tools
+📍 Bangalore, India
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+---
+
+## 💼 Experience
+
+### 👨‍💻 Java Full Stack Development Trainee
+
+**JSpiders, Bangalore**  
+`Jan 2026 – Jun 2026`
+
+- Completed intensive training in **Core Java, Advanced Java, JDBC, Servlets, JSP, Spring Boot, Hibernate/JPA, SQL and React.js**.
+- Built multiple full-stack applications using **MVC architecture and REST API design principles**.
+- Implemented **authentication, session management and MySQL database integration**.
+- Strengthened problem-solving skills through **Data Structures & Algorithms**.
+- Applied **SDLC concepts** including requirement analysis, design, development, testing and deployment.
+- Worked with Agile development practices and test cases.
+
+---
+
+# 🛠️ Tech Stack
+
+### ☕ Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,javascript" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,hibernate" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,maven,vscode,postman" />
+</p>
+
+---
+
+# 🧠 Core Concepts
+
+<div align="center">
+
+| Category | Technologies / Concepts |
+|----------|--------------------------|
+| **Programming** | Java, JavaScript |
+| **Backend** | Spring Boot, Spring MVC, Hibernate, JPA |
+| **Frontend** | React.js, HTML5, CSS3 |
+| **Database** | MySQL, JDBC |
+| **Web Technologies** | Servlets, JSP, REST APIs |
+| **Security** | Spring Security, Authentication |
+| **Architecture** | MVC, Layered Architecture |
+| **Core Java** | OOP, Collections, Exception Handling, Multithreading |
+| **Development** | CRUD, RESTful Web Services |
+| **Tools** | Git, GitHub, Maven, VS Code, Postman |
+| **Methodology** | Agile, SDLC |
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎓 EduNest
+<div align="center">
 
-**Java | Spring Boot | Spring Security | MySQL | JWT | REST API**
+<table>
+<tr>
 
-An Online Learning Management System featuring authentication, role-based authorization, course management, quizzes, certificates, leaderboard, and progress tracking.
+<td width="50%">
 
----
+<h3>🚜 Agri Tractor Booking</h3>
 
-## 📧 Mail Sender Application
-
-**Java | Spring Boot | JavaMailSender**
-
-Email sending application capable of sending plain text, HTML emails, and attachments using Spring Boot.
-
----
-
-## 🏏 Cricket Tournament Management System
-
-**Node.js | Express | MongoDB**
-
-Web-based application for managing cricket tournaments, match schedules, scores, teams, and player statistics.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shekhar582-cyber&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shekhar582-cyber&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shekhar582-cyber&layout=compact&theme=tokyonight"/>
-
+<p>
+Full-stack tractor booking platform built with
+<strong>Spring Boot, React.js and MySQL</strong>.
 </p>
+
+<p>
+🔐 Secure Authentication<br>
+📝 CRUD Operations<br>
+📅 Booking Management<br>
+🔗 REST APIs<br>
+🗄️ Normalized Database<br>
+🏗️ Layered MVC Architecture
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3>🎓 Course Portal System</h3>
+
+<p>
+Role-based course management application built using
+<strong>Java, Spring technologies, Hibernate and MySQL</strong>.
+</p>
+
+<p>
+🔐 Role-Based Authentication<br>
+👤 Session Management<br>
+📝 CRUD Operations<br>
+🗄️ Hibernate ORM<br>
+💾 MySQL Integration
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3>💧 Drip Agency Website</h3>
+
+<p>
+Responsive business website focused on clean UI,
+navigation and reusable components.
+</p>
+
+<p>
+📱 Responsive Design<br>
+📐 CSS Flexbox<br>
+🔲 CSS Grid<br>
+🧭 Interactive Navigation<br>
+♻️ Reusable UI Components
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3>💡 More Projects</h3>
+
+<p>
+I'm continuously building projects to improve my
+<strong>Java Full Stack</strong> development skills.
+</p>
+
+<p>
+☕ Java<br>
+🌱 Spring Boot<br>
+⚛️ React<br>
+🗄️ MySQL<br>
+🔗 REST APIs
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shekhar582-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shekhar582-cyber&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shekhar582-cyber&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shekhar582-cyber&theme=algolia&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Shekhar582-cyber&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shekhar582-cyber&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shekhar582-cyber&theme=tokyo-night&hide_border=true&area=true"/>
 
-</p>
-
----
-
-# 📜 Certifications
-
-- Infosys Springboard – HTML5
-- Infosys Springboard – CSS3
-- Java Full Stack Development – QSpiders
-- React.js Fundamentals
-- MySQL Bootcamp
+</div>
 
 ---
 
-# 🌐 Connect With Me
+# 📜 Certification
 
-<p align="center">
-
-<a href="mailto:shekharhotkar2002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/Shekhar582-cyber">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</p>
+### 🏅 Java Full Stack Development
+**JSpiders, Bangalore**
 
 ---
 
-<p align="center">
+# 🎯 Current Focus
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
-
-</p>
-
-<p align="center">
-
-⭐ **Thanks for visiting my profile!**
-
-</p>
+```text
+☕ Advanced Java
+🌱 Spring Boot
+🔐 Spring Security
+⚛️ React.js
+🔗 REST API Development
+🗄️ Hibernate & JPA
+🧠 Data Structures & Algorithms
+🏗️ System Design
+🚀 Building Production-Ready Applications
